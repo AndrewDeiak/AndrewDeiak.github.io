@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="80">
+	<defs>
+		<clipPath id="clip_0">
+			<rect x="-975" y="-5783" width="1440" height="15810" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="-4.6629367e-15" y1="29" x2="42" y2="29">
+			<stop offset="0" stop-color="rgb(8,194,204)"/>
+			<stop offset="1" stop-color="rgb(48,225,191)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<path fill="url(#gradient_0)" stroke="none" d="M0 21.0053C0 9.42297 9.42054 0 21 0C32.5793 0 41.9998 9.42297 42 21.0053C42 35.3794 23.2071 56.4813 22.4069 57.3726C21.6567 58.2084 20.3446 58.2099 19.5931 57.3726C18.7929 56.4813 0 35.3794 0 21.0053ZM11 20.4999C11 26.2897 15.7102 31 21.5001 31C27.2898 31 32 26.2898 32 20.5001C32 14.7103 27.2898 10 21.5001 10C15.7103 10 11 14.7102 11 20.4999Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_1">
+			<rect x="-975" y="-5783" width="1440" height="15810" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="-1.7763568e-15" y1="8" x2="16" y2="8">
+			<stop offset="0" stop-color="rgb(8,194,204)"/>
+			<stop offset="1" stop-color="rgb(48,225,191)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_1)">
+		<path fill="url(#gradient_1)" stroke="none" transform="translate(13 64)" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16Z"/>
+	</g>
+</svg>

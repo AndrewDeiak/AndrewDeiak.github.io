@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2195" height="642">
+	<defs>
+		<clipPath id="clip_0">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_0" gradientUnits="userSpaceOnUse" x1="-1.4432899e-14" y1="43" x2="130" y2="43">
+			<stop offset="0" stop-color="rgb(150,82,255)"/>
+			<stop offset="1" stop-color="rgb(99,168,255)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<path fill="none" stroke="url(#gradient_0)" stroke-width="10" stroke-miterlimit="4" transform="matrix(0.9986 0 0 0.9986 1888.35 45.1943)" d="M65 0L130 21.5L130 64.5L65 86L0 64.5L0 21.5L65 0Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_1">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_1" gradientUnits="userSpaceOnUse" x1="-6.9944055e-15" y1="21" x2="63.000004" y2="21">
+			<stop offset="0" stop-color="rgb(150,82,255)"/>
+			<stop offset="1" stop-color="rgb(99,168,255)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_1)">
+		<path fill="none" stroke="url(#gradient_1)" stroke-width="10" stroke-miterlimit="4" transform="matrix(0.9986 0 0 0.9986 135.812 369.739)" d="M31.5 0L63 10.5L63 31.5L31.5 42L0 31.5L0 10.5L31.5 0Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_2">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_2" gradientUnits="userSpaceOnUse" x1="-1.3433699e-14" y1="34.5" x2="121" y2="34.5">
+			<stop offset="0" stop-color="rgb(252,74,151)"/>
+			<stop offset="1" stop-color="rgb(255,141,126)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_2)">
+		<path fill="none" stroke="url(#gradient_2)" stroke-width="7" stroke-miterlimit="4" transform="matrix(0.9986 0 0 0.9986 1.99902 62.1709)" d="M60.5 0L121 69L0 69L60.5 0Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_3">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_3" gradientUnits="userSpaceOnUse" x1="-5.4400928e-15" y1="14" x2="49" y2="14">
+			<stop offset="0" stop-color="rgb(150,82,255)"/>
+			<stop offset="1" stop-color="rgb(99,168,255)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_3)">
+		<path fill="url(#gradient_3)" stroke="none" transform="matrix(0.6148 -0.786907 0.786907 0.6148 619.518 38.8896)" d="M24.5 0L49 28L0 28L24.5 0Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_4">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_4" gradientUnits="userSpaceOnUse" x1="-9.2148511e-15" y1="23.5" x2="83" y2="23.5">
+			<stop offset="0" stop-color="rgb(8,194,204)"/>
+			<stop offset="1" stop-color="rgb(48,225,191)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_4)">
+		<path fill="none" stroke="url(#gradient_4)" stroke-width="7" stroke-miterlimit="4" transform="matrix(0.9986 0 0 0.9986 2111.04 527.519)" d="M41.5 47L0 0L83 0L41.5 47Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_5">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_5" gradientUnits="userSpaceOnUse" x1="-8.2156504e-15" y1="21" x2="74" y2="21">
+			<stop offset="0" stop-color="rgb(8,194,204)"/>
+			<stop offset="1" stop-color="rgb(48,225,191)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_5)">
+		<path fill="none" stroke="url(#gradient_5)" stroke-width="6" stroke-miterlimit="4" transform="matrix(0.9986 0 0 0.9986 1054.52 110.104)" d="M37 42C57.4345 42 74 32.598 74 21C74 9.40202 57.4345 0 37 0C16.5655 0 0 9.40202 0 21C0 32.598 16.5655 42 37 42Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_6">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_6" gradientUnits="userSpaceOnUse" x1="-1.110223e-14" y1="14" x2="100" y2="14">
+			<stop offset="0" stop-color="rgb(8,194,204)"/>
+			<stop offset="1" stop-color="rgb(48,225,191)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_6)">
+		<path fill="none" stroke="url(#gradient_6)" stroke-width="6" stroke-miterlimit="4" transform="matrix(0.9986 0 0 0.9986 728.98 586.436)" d="M49.1228 14C49.1228 21.732 38.1263 28 24.5614 28C10.9965 28 0 21.732 0 14C0 6.26801 10.9965 0 24.5614 0C38.1263 0 49.1228 6.26801 49.1228 14ZM100 14C100 21.732 89.0035 28 75.4386 28C61.8737 28 50.8772 21.732 50.8772 14C50.8772 6.26801 61.8737 0 75.4386 0C89.0035 0 100 6.26801 100 14Z" fill-rule="evenodd"/>
+	</g>
+	<defs>
+		<clipPath id="clip_7">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_7" gradientUnits="userSpaceOnUse" x1="-4.4408921e-15" y1="11.5" x2="40" y2="11.5">
+			<stop offset="0" stop-color="rgb(252,74,151)"/>
+			<stop offset="1" stop-color="rgb(255,141,126)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_7)">
+		<path fill="url(#gradient_7)" stroke="none" transform="matrix(0.9986 0 0 0.9986 4.99512 614.396)" d="M20 23C31.0457 23 40 17.8513 40 11.5C40 5.14873 31.0457 0 20 0C8.9543 0 0 5.14873 0 11.5C0 17.8513 8.9543 23 20 23Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_8">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_8" gradientUnits="userSpaceOnUse" x1="-2.9976022e-15" y1="18.5" x2="27" y2="18.5">
+			<stop offset="0" stop-color="rgb(252,74,151)"/>
+			<stop offset="1" stop-color="rgb(255,141,126)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_8)">
+		<path fill="url(#gradient_8)" stroke="none" transform="matrix(0.944195 0.325112 -0.325112 0.944195 2098.82 323.417)" d="M9 0L18 0Q18.2305 0 18.4595 0.0104918Q18.6885 0.0209835 18.9154 0.0419456Q19.1424 0.0629077 19.3669 0.0942974Q19.5914 0.125687 19.8129 0.16744Q20.0345 0.209194 20.2527 0.261225Q20.4708 0.313257 20.6852 0.375461Q20.8995 0.437664 21.1096 0.509914Q21.3196 0.582163 21.525 0.66431Q21.7304 0.746457 21.9306 0.838334Q22.1309 0.930212 22.3256 1.03163Q22.5203 1.13305 22.7091 1.24381Q22.8979 1.35456 23.0804 1.47443Q23.2629 1.5943 23.4387 1.72303Q23.6145 1.85176 23.7833 1.9891Q23.9521 2.12643 24.1135 2.27209Q24.2749 2.41775 24.4286 2.57143Q24.5823 2.72511 24.7279 2.88651Q24.8736 3.0479 25.0109 3.21668Q25.1482 3.38546 25.277 3.56127Q25.4057 3.73709 25.5256 3.91959Q25.6454 4.10208 25.7562 4.29089Q25.867 4.47969 25.9684 4.67442Q26.0698 4.86914 26.1617 5.06939Q26.2535 5.26965 26.3357 5.47501Q26.4178 5.68038 26.4901 5.89045Q26.5623 6.10051 26.6245 6.31485Q26.6867 6.52918 26.7388 6.74735Q26.7908 6.96551 26.8326 7.18706Q26.8743 7.40862 26.9057 7.6331Q26.9371 7.85759 26.9581 8.08455Q26.979 8.31152 26.9895 8.5405Q27 8.76948 27 9L27 28Q27 28.2305 26.9895 28.4595Q26.979 28.6885 26.9581 28.9154Q26.9371 29.1424 26.9057 29.3669Q26.8743 29.5914 26.8326 29.8129Q26.7908 30.0345 26.7388 30.2527Q26.6867 30.4708 26.6245 30.6852Q26.5623 30.8995 26.4901 31.1096Q26.4178 31.3196 26.3357 31.525Q26.2535 31.7304 26.1617 31.9306Q26.0698 32.1309 25.9684 32.3256Q25.867 32.5203 25.7562 32.7091Q25.6454 32.8979 25.5256 33.0804Q25.4057 33.2629 25.277 33.4387Q25.1482 33.6145 25.0109 33.7833Q24.8736 33.9521 24.7279 34.1135Q24.5823 34.2749 24.4286 34.4286Q24.2749 34.5823 24.1135 34.7279Q23.9521 34.8736 23.7833 35.0109Q23.6145 35.1482 23.4387 35.277Q23.2629 35.4057 23.0804 35.5256Q22.8979 35.6454 22.7091 35.7562Q22.5203 35.867 22.3256 35.9684Q22.1309 36.0698 21.9306 36.1617Q21.7304 36.2535 21.525 36.3357Q21.3196 36.4178 21.1096 36.4901Q20.8995 36.5623 20.6852 36.6245Q20.4708 36.6867 20.2527 36.7388Q20.0345 36.7908 19.8129 36.8326Q19.5914 36.8743 19.3669 36.9057Q19.1424 36.9371 18.9154 36.958Q18.6885 36.979 18.4595 36.9895Q18.2305 37 18 37L9 37Q8.76948 37 8.5405 36.9895Q8.31152 36.979 8.08456 36.958Q7.85759 36.9371 7.6331 36.9057Q7.40862 36.8743 7.18706 36.8326Q6.96551 36.7908 6.74735 36.7388Q6.52918 36.6867 6.31485 36.6245Q6.10051 36.5623 5.89045 36.4901Q5.68038 36.4178 5.47501 36.3357Q5.26965 36.2535 5.06939 36.1617Q4.86914 36.0698 4.67442 35.9684Q4.47969 35.867 4.29089 35.7562Q4.10208 35.6454 3.91959 35.5256Q3.73709 35.4057 3.56127 35.277Q3.38546 35.1482 3.21668 35.0109Q3.0479 34.8736 2.88651 34.7279Q2.72511 34.5823 2.57143 34.4286Q2.41775 34.2749 2.27209 34.1135Q2.12643 33.9521 1.9891 33.7833Q1.85176 33.6145 1.72303 33.4387Q1.5943 33.2629 1.47443 33.0804Q1.35456 32.8979 1.24381 32.7091Q1.13305 32.5203 1.03163 32.3256Q0.930212 32.1309 0.838334 31.9306Q0.746457 31.7304 0.66431 31.525Q0.582163 31.3196 0.509914 31.1096Q0.437664 30.8995 0.375461 30.6852Q0.313257 30.4708 0.261225 30.2527Q0.209194 30.0345 0.16744 29.8129Q0.125687 29.5914 0.0942974 29.3669Q0.0629077 29.1424 0.0419456 28.9154Q0.0209835 28.6885 0.0104918 28.4595Q0 28.2305 0 28L0 9Q0 8.76948 0.0104918 8.5405Q0.0209835 8.31152 0.0419456 8.08456Q0.0629077 7.85759 0.0942974 7.6331Q0.125687 7.40862 0.16744 7.18706Q0.209194 6.96551 0.261225 6.74735Q0.313257 6.52918 0.375461 6.31485Q0.437664 6.10051 0.509914 5.89045Q0.582163 5.68038 0.66431 5.47501Q0.746457 5.26965 0.838334 5.06939Q0.930212 4.86914 1.03163 4.67442Q1.13305 4.47969 1.24381 4.29089Q1.35456 4.10208 1.47443 3.91959Q1.5943 3.73709 1.72303 3.56127Q1.85176 3.38546 1.9891 3.21668Q2.12643 3.0479 2.27209 2.88651Q2.41775 2.72511 2.57143 2.57143Q2.72511 2.41775 2.88651 2.27209Q3.0479 2.12643 3.21668 1.9891Q3.38546 1.85176 3.56127 1.72303Q3.73709 1.5943 3.91959 1.47443Q4.10208 1.35456 4.29089 1.24381Q4.47969 1.13305 4.67442 1.03163Q4.86914 0.930212 5.06939 0.838334Q5.26965 0.746457 5.47501 0.66431Q5.68038 0.582163 5.89045 0.509914Q6.10051 0.437664 6.31485 0.375461Q6.52918 0.313257 6.74735 0.261225Q6.96551 0.209194 7.18706 0.16744Q7.40862 0.125687 7.6331 0.0942974Q7.85759 0.0629077 8.08455 0.0419456Q8.31152 0.0209835 8.5405 0.0104918Q8.76948 0 9 0Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_9">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_9" gradientUnits="userSpaceOnUse" x1="-5.2180482e-15" y1="13.5" x2="47" y2="13.5">
+			<stop offset="0" stop-color="rgb(150,82,255)"/>
+			<stop offset="1" stop-color="rgb(99,168,255)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_9)">
+		<path fill="url(#gradient_9)" stroke="none" transform="matrix(0.9986 0 0 0.9986 1722.59 614.396)" d="M0 0L47 0L47 27L0 27L0 0Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_10">
+			<rect x="4.9951172" y="-10050.652" width="2188.9312" height="15759.905" clip-rule="evenodd"/>
+		</clipPath>
+		<linearGradient id="gradient_10" gradientUnits="userSpaceOnUse" x1="-2.6645353e-15" y1="7" x2="24" y2="7">
+			<stop offset="0" stop-color="rgb(252,74,151)"/>
+			<stop offset="1" stop-color="rgb(255,141,126)"/>
+		</linearGradient>
+	</defs>
+	<g clip-path="url(#clip_10)">
+		<path fill="url(#gradient_10)" stroke="none" transform="matrix(0.706117 -0.706117 0.706117 0.706117 1531.42 41.7344)" d="M0 0L24 0L24 14L0 14L0 0Z"/>
+	</g>
+</svg>
