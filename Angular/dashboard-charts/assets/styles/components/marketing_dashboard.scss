@@ -156,6 +156,7 @@
         display: flex;
         align-items: center;
         width: 100%;
+        cursor: pointer;
 
         .percent {
           width: 50%;
@@ -194,10 +195,11 @@
       padding: 5px 11px;
       border-top: 6px solid #00968A;
       background: #fff;
+      min-height: 62.4px;
 
       p {
         margin: 0;
-        font-size: 14px;
+        font-size: 12px;
       }
 
       &-value {
@@ -286,23 +288,35 @@
   .mat-option-text {
     display: flex;
     align-items: center;
+    justify-content: space-between;
   }
 
-  .icon-disabled {
+  &.mat-option {
+    &.mat-selected:not(.mat-option-disabled) {
+      color: #00968A;
+    }
+
+    &[aria-disabled=true] {
+      user-select: auto;
+      cursor: pointer;
+    }
+
+    &-disabled {
+      color: rgba(0, 0, 0, .87);
+    }
+
+    .mat-pseudo-checkbox-disabled {
+      color: rgba(0, 0, 0, .54);
+    }
+  }
+
+  &:hover {
+    background: rgba(0, 0, 0, .04);
+  }
+
+  .locked-icon {
     width: 20px;
     height: 20px;
-
-    &._left {
-      margin-right: 10px;
-    }
-
-    &._right {
-      margin-left: 10px;
-    }
-  }
-
-  &.mat-option.mat-selected:not(.mat-option-disabled) {
-    color: #00968A;
   }
 }
 
