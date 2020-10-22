@@ -42,3 +42,7 @@ Encrypts the data that being retrieved by HTTP. Uses encryption algorithm.
 
     - save the selected language.
     - shopping card.
+    - preserve login state.
+`Important`: To include cookies in a Fetch requests across different origins we must provide the credentials: "include" (by default it's same origin).
+
+![cookies-localStorage-sessionStorage](https://andrewdeiak.github.io/browser-general-info/cookies-localStorage-sessionStorage.png)
