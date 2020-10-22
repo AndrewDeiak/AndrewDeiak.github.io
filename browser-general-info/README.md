@@ -45,4 +45,4 @@ Encrypts the data that being retrieved by HTTP. Uses encryption algorithm.
     - preserve login state.
 `Important`: To include cookies in a Fetch requests across different origins we must provide the credentials: "include" (by default it's same origin).
 
-![cookies-localStorage-sessionStorage](https://andrewdeiak.github.io/browser-general-info/cookies-localStorage-sessionStorage.png)
+![cookies-localStorage-sessionStorage](https://github.com/AndrewDeiak/AndrewDeiak.github.io/blob/master/browser-general-info/cookies-localStorage-sessionStorage.png?raw=true)
