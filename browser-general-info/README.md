@@ -39,11 +39,12 @@ Encrypts the data that being retrieved by HTTP. Uses encryption algorithm.
     - Save bandwidth.
 
 `Cookies` used for:
-
-    - save the selected language.
-    - shopping card.
     - preserve login state.
     
 `Important`: To include cookies in a Fetch requests across different origins we must provide the credentials: "include" (by default it's same origin).
 
+`Session Storage` used for:
+ - Good alternative to passing data between pages using hidden <input> fields, or URL parameters.
+ - Some things only want the user to see once per login, like a news popup. You could store that they've seen it already in sessionStorage. This would also work for actions that you only want the user to do once per login.
+   
 ![cookies-localStorage-sessionStorage](https://github.com/AndrewDeiak/AndrewDeiak.github.io/blob/master/browser-general-info/cookies-localStorage-sessionStorage.png?raw=true)
