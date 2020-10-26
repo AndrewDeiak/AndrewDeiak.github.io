@@ -64,12 +64,12 @@ Encrypts the data that being retrieved by HTTP. Uses encryption algorithm.
    
 `Local Storage` best for:  
 
-    - public, non-sensitive, string data
+    - public, non-sensitive, string data.
    
 `Local Storage` worst for:  
 
-    - private sensitive data
-    - non-string data
+    - private sensitive data.
+    - non-string data.
     
 ![cookies-localStorage-sessionStorage](https://github.com/AndrewDeiak/AndrewDeiak.github.io/blob/master/browser-general-info/cookies-localStorage-sessionStorage.png?raw=true)
 
@@ -144,4 +144,4 @@ Sessions are (probably) better suited for web apps and websites.
     - IP verification.
     - user agent verification.
     - two-factor auth.
-    - API throttling
+    - API throttling.
